@@ -1,0 +1,14 @@
+{
+  "name": "@ymmoolenaar/area-lighting-final",
+  "main": "c5e6b2b759093943@1926.js",
+  "version": "1926.0.0",
+  "homepage": "https://observablehq.com/@ymmoolenaar/area-lighting-final",
+  "author": {
+    "name": "ymmoolenaar",
+    "url": "https://observablehq.com/@ymmoolenaar"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
